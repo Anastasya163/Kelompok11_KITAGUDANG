@@ -435,9 +435,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `username`, `profile_image`, `email_verified_at`, `password`, `remember_token`, `created_at`, `updated_at`, `role`) VALUES
-(4, 'admin', 'admin@admin.com', 'Admin', '202311181008218d5c48d3dc8deaaca18e23831e6297.jpg', '2023-08-02 19:33:13', '$2y$10$90cYg9f2tgd0tSoQ8KShquMjl5zOiAlPQhOsdjvoLF26UWjvGRwGG', NULL, '2023-08-02 19:25:14', '2023-11-18 03:08:25', 'admin'),
-(8, 'user', 'user@gmail.com', 'User', '202309220733man.png', '2023-08-09 18:29:14', '$2y$10$NscgVXMXIDBT7QQmzcJfGujzUbdsLrVn40hXEcbF4IZKeeCAYV5NG', 'kjoiQNRuT62D1yEMN4J4Z8BI57HH9wYZhX012YXRQJBtUchensGGGyCMa0ba', '2023-08-09 18:23:55', '2023-09-21 17:33:52', 'user'),
-(10, 'Admin2', 'admin2@gmail.com', 'Admin2', '202309220808user.png', NULL, '$2y$10$HV2jjNzuopcV13snYYcH9.kxBMS6poc8TUWLFkELSEWmEpQo4Cww2', NULL, '2023-09-21 18:08:44', '2023-09-21 18:08:44', 'admin');
+(1, 'admin', 'admin@admin.com', 'Admin', '202311181008218d5c48d3dc8deaaca18e23831e6297.jpg', '2023-08-02 19:33:13', '$2y$10$90cYg9f2tgd0tSoQ8KShquMjl5zOiAlPQhOsdjvoLF26UWjvGRwGG', NULL, '2023-08-02 19:25:14', '2023-11-18 03:08:25', 'admin');
+
 
 --
 -- Indexes for dumped tables
