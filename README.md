@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Instalasi
 
 Download source code extract source code simpan di htdocs (C:\xampp\htdocs)
