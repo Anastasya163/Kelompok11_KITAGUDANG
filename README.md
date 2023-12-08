@@ -12,7 +12,7 @@ jalankan perintah "php artisan serve" (C:\xampp\htdocs\Kelompok11_Kitagudang> ph
 salin alamat yang diberikan (contoh : Server running on [http://127.0.0.1:8000]), paste pada browser anda
 untuk masuk ke halaman login, tambahkan dashboard pada alamat [http://127.0.0.1:8000/dashboard], dan aplikasi siap untuk digunakan
 
-masuk dengan : username: admin password: admin
+masuk dengan : username: Admin password: admin
 =======
 # Kelompok11_Kitagudang
 
